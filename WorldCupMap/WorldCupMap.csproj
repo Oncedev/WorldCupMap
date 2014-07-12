@@ -103,6 +103,7 @@
     <Compile Include="WorldCupMapViewController.designer.cs">
       <DependentUpon>WorldCupMapViewController.cs</DependentUpon>
     </Compile>
+    <Compile Include="WorldCupInfo.cs" />
   </ItemGroup>
   <ItemGroup>
     <InterfaceDefinition Include="MainStoryboard.storyboard" />
