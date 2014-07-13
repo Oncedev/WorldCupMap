@@ -22,6 +22,11 @@ namespace WorldCupMap
 			get;
 			set;
 		}
+
+		public string Image {
+			get;
+			set;
+		}
 	}
 }
 

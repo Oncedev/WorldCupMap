@@ -91,6 +91,50 @@
   </ItemGroup>
   <ItemGroup>
     <BundleResource Include="Resources\Default-568h%402x.png" />
+    <BundleResource Include="Resources\brazil.png" />
+    <BundleResource Include="Resources\argentina.png" />
+    <BundleResource Include="Resources\algeria.png" />
+    <BundleResource Include="Resources\australia.png" />
+    <BundleResource Include="Resources\bosnia.png" />
+    <BundleResource Include="Resources\cameroon.png" />
+    <BundleResource Include="Resources\chile.png" />
+    <BundleResource Include="Resources\colombia.png" />
+    <BundleResource Include="Resources\costa-rica.png" />
+    <BundleResource Include="Resources\cote-ivoire.png" />
+    <BundleResource Include="Resources\croatia.png" />
+    <BundleResource Include="Resources\ecuador.png" />
+    <BundleResource Include="Resources\england.png" />
+    <BundleResource Include="Resources\france.png" />
+    <BundleResource Include="Resources\germany.png" />
+    <BundleResource Include="Resources\ghana.png" />
+    <BundleResource Include="Resources\greece.png" />
+    <BundleResource Include="Resources\honduras.png" />
+    <BundleResource Include="Resources\iran.png" />
+    <BundleResource Include="Resources\italy.png" />
+    <BundleResource Include="Resources\japan.png" />
+    <BundleResource Include="Resources\korea.png" />
+    <BundleResource Include="Resources\mexico.png" />
+    <BundleResource Include="Resources\netherlands.png" />
+    <BundleResource Include="Resources\nigeria.png" />
+    <BundleResource Include="Resources\portugal.png" />
+    <BundleResource Include="Resources\russia.png" />
+    <BundleResource Include="Resources\spain.png" />
+    <BundleResource Include="Resources\switzerland.png" />
+    <BundleResource Include="Resources\uruguay.png" />
+    <BundleResource Include="Resources\usa.png" />
+    <BundleResource Include="Resources\belgium.png" />
+    <BundleResource Include="Resources\fonte-nova.jpeg" />
+    <BundleResource Include="Resources\arena-dunas.jpg" />
+    <BundleResource Include="Resources\estadio-castelao.jpg" />
+    <BundleResource Include="Resources\arena-amazonia.jpg" />
+    <BundleResource Include="Resources\arena-baixada.jpg" />
+    <BundleResource Include="Resources\arena-beira-rio.jpg" />
+    <BundleResource Include="Resources\arena-corinthians.jpg" />
+    <BundleResource Include="Resources\arena-pantanal.jpg" />
+    <BundleResource Include="Resources\arena-pernambuco.jpg" />
+    <BundleResource Include="Resources\estadio-maracana.jpg" />
+    <BundleResource Include="Resources\estadio-mineirao.jpg" />
+    <BundleResource Include="Resources\estadio-nacional.jpg" />
   </ItemGroup>
   <ItemGroup>
     <None Include="Info.plist" />
