@@ -4,8 +4,13 @@ namespace WorldCupMap
 {
 	public class WorldCupInfo
 	{
-		public WorldCupInfo ()
+		public WorldCupInfo (string title, double latitude,
+			double longitude, string image)
 		{
+			Title = title;
+			Latitude = latitude;
+			Longitude = longitude;
+			Image = image;
 		}
 
 		public string Title {
